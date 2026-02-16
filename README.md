@@ -35,10 +35,6 @@ Node.js
 
 Express.js
 
-Data Base
-
-Mongo DB
-
 Database
 
 MongoDB (Mongoose ODM)mon
